@@ -1,4 +1,3 @@
-
 package com.jpac.flume.serializer;
 
 import java.io.BufferedReader;
